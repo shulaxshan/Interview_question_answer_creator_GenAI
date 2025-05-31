@@ -1,0 +1,16 @@
+Question,Answer
+1. What is clustering and what is its purpose in data analysis?,Clustering is an algorithm used in data analysis to find natural groupings or clusters within a dataset when these groupings are not obvious. Its purpose is to identify hidden patterns or structures in the data by grouping similar data instances together and separating them from dissimilar instances.
+2. How does clustering help in finding natural groupings in data?,"Clustering helps in finding natural groupings in data by using algorithms to identify similarities between data points and group them together based on these similarities. The algorithm looks for patterns or structures in the data that may not be immediately apparent, allowing for the identification of clusters or groups of data points that share common characteristics. By analyzing the distances or similarities between data points, clustering algorithms can effectively segment the data into meaningful groups."
+3. What is a cluster in the context of data analysis?,"In the context of data analysis, a cluster is a collection of data instances that are similar to each other and dissimilar to data instances in other clusters. Clustering algorithms aim to group data points together based on their similarities to uncover natural groupings within the data."
+4. What are some common distance functions used in clustering algorithms?,"Some common distance functions used in clustering algorithms include:
+- Euclidean Distance
+- Manhattan Distance
+- Minkowski Distance
+- Chebyshev Distance
+- Cosine Distance"
+5. Can you list some examples of distance functions that play a central role in clustering algorithms?,"Some examples of distance functions that play a central role in clustering algorithms are:
+- Euclidean Distance
+- Manhattan Distance
+- Minkowski Distance
+- Chebyshev Distance
+- Cosine Distance"
